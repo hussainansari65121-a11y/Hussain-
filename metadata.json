@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: Zoya - AI Voice Assistant",
+  "description": "Zoya: Hussain's warm, witty, and caring personal AI best friend.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
